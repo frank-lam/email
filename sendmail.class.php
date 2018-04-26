@@ -95,6 +95,7 @@ class sendmail {
     */
     protected $_isSecurity;
   
+    
     /**
     * @var string 错误信息
     * @access protected
